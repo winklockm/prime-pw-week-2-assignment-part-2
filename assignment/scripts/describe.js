@@ -145,7 +145,7 @@ if (mix === true) {
 
 /*
 let temp = 40;
-const time = 4;
+let time = 4;
 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
