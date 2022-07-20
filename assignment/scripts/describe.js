@@ -74,7 +74,8 @@ console.log(secret)
 // We make a variable called age and set it to 34 as a number.
 // We make a variable called zip and set it to 55407 as a number.
 // We check if boolean is true AND if zip number is greater than 8000. Boolean is equal to true but the zip number is not greater than 8000.
-// We check if boolean is false 
+// We check if boolean is false OR if age number is less than 30. Boolean is not false. Age is not less than 30.
+// We check if boolean is true. Boolean is true so we console.log 'Welcome to Prime!'
 
 //CODE
 /*
