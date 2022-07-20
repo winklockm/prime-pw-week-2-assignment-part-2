@@ -46,7 +46,7 @@ if (name === 'Mary') {
 
 // 2. WRITE YOUR DESCRIPTION HERE
 // 
-// 
+//
 // 
 //
 
@@ -70,10 +70,11 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We make a variable called isStudent and set it to true as a boolean.
+// We make a variable called age and set it to 34 as a number.
+// We make a variable called zip and set it to 55407 as a number.
+// We check if boolean is true AND if zip number is greater than 8000. Boolean is equal to true but the zip number is not greater than 8000.
+// We check if boolean is false 
 
 //CODE
 /*
