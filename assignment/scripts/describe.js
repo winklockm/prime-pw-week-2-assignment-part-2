@@ -45,9 +45,9 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-//
-// 
+// We make a variable called secret
+// We make a variable called code and set it to 123 as a number
+// We check if number is equal to 123. Number is equal to 123, so we console.log 'super'.
 //
 
 //CODE
