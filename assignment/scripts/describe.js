@@ -26,8 +26,8 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
+// We make a variable called name and set it to Dane as a string.
+// We check if string is equal to Mary. String is not equal to Mary, so we console.log 'How do you do?'.
 // 
 //
 
