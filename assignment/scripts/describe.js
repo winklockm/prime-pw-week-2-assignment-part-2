@@ -132,12 +132,15 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
+// FIX - colorOne is set to 'red' but instructions ask it to be set to 'blue'
 let colorOne = 'red';
+FIX - colorTwo is set to 'blue' but instructions ask it to be set to 'red'
 let colorTwo = 'blue';
 let mix = true;
 
 if (mix === true) {
   colorOne = 'purple';
+// FIX - instructions also ask for colorTwo to be set to 'purple' 
 }
 */
 
@@ -149,6 +152,7 @@ if (mix === true) {
 let temp = 40;
 const time = 4;
 
+// FIX - this checks if temp is greater than 39 OR if time is greater than or equal to 4, but instructions ask to check if temp is greater than 39 AND if time is greater than or equal to 4. So change || to &&
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
@@ -162,6 +166,7 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 const minAge = 21;
 
+// FIX - this checks if minAge is less than or equal to age, instructions ask to check if age is greater than or equal to minAge. Change to if(age >= minAge) to match instructions.
 if(minAge <= age) {
   console.log('no entry');
 } else {
